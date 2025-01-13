@@ -7,7 +7,7 @@ import com.google.gson.JsonParser;
 public class ConversorDeMoedas {
 
     // Substitua com sua chave de API real
-    private static final String API_KEY = "befeec2ac4cfb7421348d1dd";
+    private static final String API_KEY = "sua_chave_API";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
